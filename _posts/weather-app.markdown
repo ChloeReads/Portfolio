@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2025-02-12
+img: weather.png
+alt: weather-app
+project-date: February 2025
+client: Python/Power BI
+category: Data Science
+description: My 2025 Year end assesment, creating a weather forcasting Power BI dashboard bringing elements of Data Engineering/Infrastructure, Data Visualisation and Analytics
 ---
