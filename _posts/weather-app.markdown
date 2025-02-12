@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: Weather Forcasting App
 date: 2025-02-12
 img: weather.png
 alt: weather-app
