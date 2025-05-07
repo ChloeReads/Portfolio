@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2025-02-12
-img: weather.png
+img: audiobook.png
 alt: audiobook-reccomendation-app
 project-date: February 2025
 client: Python / Power Automate
