@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2025-02-12
 img: audiobook.png
-alt: audiobook-reccomendation-app
+alt: audiobook-recommendation-app
 project-date: February 2025
 client: Python / Power Automate
 category: Data Science
